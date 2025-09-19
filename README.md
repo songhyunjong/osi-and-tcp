@@ -1,4 +1,4 @@
 OSI 7 Layer and TCP/IP Layer
 ===
 
-![osi-and-tcp](osi-and-tcp.png)
+![osi_7.png](osi.png)
